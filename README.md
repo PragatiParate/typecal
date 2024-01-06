@@ -3,7 +3,7 @@
 ### A calculator project
 
 
-** npm install **
+**npm install**
 
 ~~  do not use node js 16 below version ~~
 

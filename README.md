@@ -5,7 +5,7 @@
 
 **npm install**
 
-~~  do not use node js 16 below version ~~
+~~do not use node js 16 below version~~
 
 *Some basic Git commands are:*
 ```
